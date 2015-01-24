@@ -1,0 +1,11 @@
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\bin\Debug\WhoaGDriveToHardcoded.exe.config
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\bin\Debug\WhoaGDriveToHardcoded.exe
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\bin\Debug\WhoaGDriveToHardcoded.pdb
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\bin\Debug\Google.GData.AccessControl.dll
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\bin\Debug\Google.GData.Client.DLL
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\bin\Debug\Google.GData.Extensions.dll
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\bin\Debug\Google.GData.Spreadsheets.dll
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\bin\Debug\Newtonsoft.Json.dll
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\obj\Debug\WhoaGDriveToHardcoded.csprojResolveAssemblyReference.cache
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\obj\Debug\WhoaGDriveToHardcoded.exe
+c:\users\cendrb\documents\visual studio 2013\Projects\WhoaGDriveToHardcoded\WhoaGDriveToHardcoded\obj\Debug\WhoaGDriveToHardcoded.pdb
